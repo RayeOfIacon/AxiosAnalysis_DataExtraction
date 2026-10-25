@@ -1,0 +1,19 @@
+# .NET build output
+bin/
+obj/
+
+# Local editor and user settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
+*secrets*.json
+
+# Temporary files
+*.tmp
+*.log
